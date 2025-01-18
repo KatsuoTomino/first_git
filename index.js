@@ -6,6 +6,5 @@ function greet() {
 }
 
 greet();
-greet();
 
 
